@@ -1,0 +1,22 @@
+.card{
+    border: none !important;
+    img{
+        height: 300px;
+        border-radius: 10px;
+    }
+    &-body{
+        
+        h5{
+            font-size: 20px;
+            font-weight: 400;
+        }
+        .star{
+            i{
+                color: gold;
+            }
+        }
+        .heart{
+            color: grey;
+        }
+    }
+}
